@@ -1,0 +1,19 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "a pop up window (modal) built with HTML, CSS and JavaScript, along with a Youtube tutorial to follow along :)",
+  "main": "pop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redouand/Pop-Up-Window-modal-.git"
+  },
+  "author": "redwan awadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redouand/Pop-Up-Window-modal-/issues"
+  },
+  "homepage": "https://redouand.github.io/Pop-Up-Window-modal-/"
+}
